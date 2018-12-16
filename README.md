@@ -14,7 +14,7 @@ If you're just curious what my completed React app looks like, you can get it he
 - node
 
 ```
-git clone https://github.com/githubacct54385/LearnReactCrashCourseByMosh.git
+git clone https://github.com/githubacct54385/ReactCrashCourseByMosh.git
 cd LearnReactCrashCourseByMosh
 npm install
 npm start
