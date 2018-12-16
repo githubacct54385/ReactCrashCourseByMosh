@@ -1,4 +1,4 @@
-# LearnReactCrashCourseByMosh
+# ReactCrashCourseByMosh
 
 I followed the Youtube tutorial on how to get started with React. I found the tutorial quite good and recommend to anyone who is interested in learning how to use React. Mosh does a great explanation on each part. Please watch the whole video and follow along. In the video, he doesn't give a link to any online repo with the code nor does he let you copy/paste his code into your editor. You have to follow along and do everything by hand. If you have the time, just less than 2.5 hours, watch and follow along.
 
